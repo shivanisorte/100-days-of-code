@@ -2,9 +2,9 @@
 
 ### Day 0: November 28, 2020
 
-**Today's Progress**: Learnt about timer functions and asynchronous Javascript
+**Today's Progress**: Learnt a bit about timer functions and asynchronous Javascript
 
-**Thoughts**: A Callback or two is easy to handle. But callback chains are definitely more difficult to handle than promise chains. I struggled with promises in JS, but I managed to figure out some basic functionality.
+**Thoughts**: Struggled with promises in JS, but managed to figure out some basic functionality. Callback chains are definitely more difficult to handle than promise chains.
 
 **Link(s) to work**: [Learning timer functions and async JS](https://github.com/shivanisorte/LearningJavaScript/tree/main/learning/timerfunc%26asyncJS)
 

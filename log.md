@@ -9,12 +9,10 @@
 **Link(s) to work**: [Learning timer functions and async JS](https://github.com/shivanisorte/LearningJavaScript/tree/main/learning/timerfunc%26asyncJS)
 
 
-### Day 1: June 27, Monday
+### Day 1: November 29, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Learnt how to fetch APIs
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: It feels great today. 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [Fetch APIs](https://github.com/shivanisorte/LearningJavaScript/tree/main/learning/API)

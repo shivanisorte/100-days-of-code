@@ -16,3 +16,12 @@
 **Thoughts**: It feels great today. 
 
 **Link(s) to work**: [Fetch APIs](https://github.com/shivanisorte/LearningJavaScript/tree/main/learning/API)
+
+
+### Day 2: November 30, 2020
+
+**Today's Progress**: Developed a simple shopping system with add to cart and search functionality
+
+**Thoughts**: There's a little bit work remaining that I'll complete tomorrow
+
+**Link(s) to work**: [Shppping 360](https://github.com/shivanisorte/LearningJavaScript/tree/main/project1)

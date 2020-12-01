@@ -25,3 +25,12 @@
 **Thoughts**: There's a little bit work remaining that I'll complete tomorrow
 
 **Link(s) to work**: [Shppping 360](https://github.com/shivanisorte/LearningJavaScript/tree/main/project1)
+
+
+### Day 3: December 1, 2020
+
+**Today's Progress**: Completed shopping 360
+
+**Thoughts**: There are still more features that I can add to the shopping system. For example: A back button to return to the home after search. But I'll do that some other day. 
+
+**Link(s) to work**: [Shppping 360](https://github.com/shivanisorte/LearningJavaScript/tree/main/project1)

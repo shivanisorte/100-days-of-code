@@ -34,3 +34,13 @@
 **Thoughts**: There are still more features that I can add to the shopping system. For example: A back button to return to the home after search. But I'll do that some other day. 
 
 **Link(s) to work**: [Shppping 360](https://github.com/shivanisorte/LearningJavaScript/tree/main/project1)
+
+
+
+### Day 4: December 2, 2020
+
+**Today's Progress**: Revised the basics of JavaScript
+
+**Thoughts**: I had really forgotten a lot of topics. Thank god I decided to revise.
+
+**Link(s) to work**: [Revising basics of JS](https://github.com/shivanisorte/LearningJavaScript/tree/main/learning)

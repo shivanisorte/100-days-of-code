@@ -44,3 +44,13 @@
 **Thoughts**: I had really forgotten a lot of topics. Thank god I decided to revise.
 
 **Link(s) to work**: [Revising basics of JS](https://github.com/shivanisorte/LearningJavaScript/tree/main/learning)
+
+
+
+### Day 5: December 3, 2020
+
+**Today's Progress**: Started node.js. 
+
+**Thoughts**: Took me like an hour to figure out how it works but I'm glad I did because I ended up learning more than I would've if it had run easily.
+
+**Link(s) to work**: [Startting Node.js](https://github.com/shivanisorte/LearningJavaScript/blob/main/nodejs/index.js)

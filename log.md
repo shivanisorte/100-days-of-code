@@ -60,7 +60,7 @@
 
 ### Day 6: December 4, 2020
 
-**Today's Progress**: Learnt how to create a server read and write into a file asynchronously and synchronously 
+**Today's Progress**: Learnt how to read and write into a file asynchronously and synchronously and how to create a server
 
 **Thoughts**: Felt like I made some real progress today.
 

@@ -51,6 +51,17 @@
 
 **Today's Progress**: Started node.js. 
 
-**Thoughts**: Took me like an hour to figure out how it works but I'm glad I did because I ended up learning more than I would've if it had run easily.
+**Thoughts**: Took me like an hour to figure out how it works but I did. YAYYYY
 
-**Link(s) to work**: [Startting Node.js](https://github.com/shivanisorte/LearningJavaScript/blob/main/nodejs/index.js)
+**Link(s) to work**: [Starting Node.js](https://github.com/shivanisorte/LearningJavaScript/blob/main/nodejs/index.js)
+
+
+
+
+### Day 6: December 4, 2020
+
+**Today's Progress**: Learnt how to create a server read and write into a file asynchronously and synchronously 
+
+**Thoughts**: Felt like I made some real progress today.
+
+**Link(s) to work**: [Node.js](https://github.com/shivanisorte/LearningJavaScript/blob/main/nodejs/index.js)

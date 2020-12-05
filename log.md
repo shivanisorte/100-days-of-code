@@ -65,3 +65,14 @@
 **Thoughts**: Felt like I made some real progress today.
 
 **Link(s) to work**: [Node.js](https://github.com/shivanisorte/LearningJavaScript/blob/main/nodejs/index.js)
+
+
+
+
+### Day 7: December 5, 2020
+
+**Today's Progress**: Still learning node.js
+
+**Thoughts**: :D
+
+**Link(s) to work**: [Node.js](https://github.com/shivanisorte/LearningJavaScript/tree/main/nodejs)

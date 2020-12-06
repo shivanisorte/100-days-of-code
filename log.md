@@ -76,3 +76,15 @@
 **Thoughts**: :D
 
 **Link(s) to work**: [Node.js](https://github.com/shivanisorte/LearningJavaScript/tree/main/nodejs)
+
+
+
+
+### Day 8: December 6, 2020
+
+**Today's Progress**: Created a basic API
+
+**Thoughts**: Was thinking of the time when Facebook had different software for different devices (like Facebook for mobiles, Facebook for desktop etc). APIs have really changed everything. Now they have one backend and many frontends. APIs are amazing. 
+
+**Link(s) to work**: [API](https://github.com/shivanisorte/LearningJavaScript/blob/main/nodejs/basicApi.js) [The JSON file](https://github.com/shivanisorte/LearningJavaScript/blob/main/nodejs/products.json)
+

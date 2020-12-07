@@ -91,3 +91,13 @@
 [API](https://github.com/shivanisorte/LearningJavaScript/blob/main/nodejs/basicApi.js)          
 [The JSON file](https://github.com/shivanisorte/LearningJavaScript/blob/main/nodejs/products.json)
 
+
+
+
+### Day 9: December 7, 2020
+
+**Today's Progress**: Installed nodemon. Still learning node.js
+
+**Thoughts**: Installed nodemon without -g and wondered for a long time why it would work only with selective files haha
+
+**Link(s) to work**: [Node.js](https://github.com/shivanisorte/LearningJavaScript/tree/main/nodejs)

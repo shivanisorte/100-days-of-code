@@ -101,3 +101,15 @@
 **Thoughts**: Installed nodemon without -g and wondered for a long time why it would work only with selective files haha
 
 **Link(s) to work**: [Node.js](https://github.com/shivanisorte/LearningJavaScript/tree/main/nodejs)
+
+
+
+
+
+### Day 10: December 8, 2020
+
+**Today's Progress**: Started development of a supermarket web application. 
+
+**Thoughts**: Used Bootstrap for the first time.
+
+**Link(s) to work**: [supermarket]()

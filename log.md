@@ -115,6 +115,8 @@
 **Link(s) to work**: [supermarket]()
 
 
+
+
 ### Day 11: December 9, 2020
 
 **Today's Progress**: Created module in node.js and learnt about buffers and streams. 
@@ -122,3 +124,15 @@
 **Thoughts**: Wondering how much people must've had to wait in order to watch a movie from the internet before the concept of streaming was developed.
 
 **Link(s) to work**: [creating module](https://github.com/shivanisorte/LearningJavaScript/tree/main/nodejs/creatingmodule)
+
+
+
+
+
+### Day 12: December 10, 2020
+
+**Today's Progress**: Developed backend for my project. 
+
+**Thoughts**: The API was blocking the server. Used 2 headers to fix that. 
+
+**Link(s) to work**: [supermarket]()

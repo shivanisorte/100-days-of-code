@@ -136,3 +136,14 @@
 **Thoughts**: The API was blocking the server. Used 2 headers to fix that. 
 
 **Link(s) to work**: [supermarket]()
+
+
+
+
+### Day 13: December 11, 2020
+
+**Today's Progress**: Developing frontend for my supermarket project. 
+
+**Thoughts**: I am proud of myself for reaching so far. 
+
+**Link(s) to work**: [supermarket]()

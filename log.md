@@ -24,7 +24,7 @@
 
 **Thoughts**: There's a little bit work remaining that I'll complete tomorrow
 
-**Link(s) to work**: [Shppping 360](https://github.com/shivanisorte/LearningJavaScript/tree/main/project1)
+**Link(s) to work**: [Shppping 360](https://github.com/shivanisorte/LearningJavaScript/tree/main/project2shopping)
 
 
 ### Day 3: December 1, 2020
@@ -33,7 +33,7 @@
 
 **Thoughts**: There are still more features that I can add to the shopping system. For example: A back button to return to the home after search. But I'll do that some other day. 
 
-**Link(s) to work**: [Shppping 360](https://github.com/shivanisorte/LearningJavaScript/tree/main/project1)
+**Link(s) to work**: [Shppping 360](https://github.com/shivanisorte/LearningJavaScript/tree/main/project2shopping)
 
 
 
@@ -112,7 +112,7 @@
 
 **Thoughts**: Used Bootstrap for the first time.
 
-**Link(s) to work**: [supermarket]()
+**Link(s) to work**: [supermarket](https://github.com/shivanisorte/LearningJavaScript/tree/main/project3supermarket)
 
 
 
@@ -135,7 +135,7 @@
 
 **Thoughts**: The API was blocking the server. Used 2 headers to fix that. 
 
-**Link(s) to work**: [supermarket]()
+**Link(s) to work**: [supermarket](https://github.com/shivanisorte/LearningJavaScript/tree/main/project3supermarket)
 
 
 
@@ -146,4 +146,16 @@
 
 **Thoughts**: I am proud of myself for reaching so far. 
 
-**Link(s) to work**: [supermarket]()
+**Link(s) to work**: [supermarket](https://github.com/shivanisorte/LearningJavaScript/tree/main/project3supermarket)
+
+
+
+
+
+### Day 14: December 12, 2020
+
+**Today's Progress**: Connected backend to frontend and added ratings feature
+
+**Thoughts**: Thinking about more features that I can add to this project
+
+**Link(s) to work**: [supermarket](https://github.com/shivanisorte/LearningJavaScript/tree/main/project3supermarket)

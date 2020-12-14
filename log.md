@@ -159,3 +159,17 @@
 **Thoughts**: Thinking about more features that I can add to this project
 
 **Link(s) to work**: [supermarket](https://github.com/shivanisorte/LearningJavaScript/tree/main/project3supermarket)
+
+
+
+
+### Day 15: December 14, 2020
+
+**Today's Progress**: Learnt about types of requests (get, post, put, patch and options) and installed Insomnia.
+
+**Thoughts**: Slept while coding yesterday. I need to learn how to manage my time more efficiently.
+
+**Link(s) to work**: [no link]()
+
+
+

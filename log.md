@@ -173,3 +173,15 @@
 
 
 
+
+
+### Day 16: December 16, 2020
+
+**Today's Progress**: Managed to figure out some basic functionality of Insomnia
+
+**Thoughts**: Still need to learn more
+
+**Link(s) to work**: [no link]()
+
+
+

@@ -185,3 +185,18 @@
 
 
 
+
+
+### Day 17: December 17, 2020
+
+**Today's Progress**: Created functions for GET and POST method in my supermarket app. Passed a JSON object using POST method through Insomnia and added it to my products.json file.
+
+**Thoughts**: Making the document format beautiful by using prettify extensions in VSCode is aesthetic and nobody can change my mind.
+
+**Link(s) to work**: [adding get post method req](https://github.com/shivanisorte/LearningJavaScript/commit/906b4e554c7eed0ce3a948edf24433134ba37692)
+
+
+
+
+
+

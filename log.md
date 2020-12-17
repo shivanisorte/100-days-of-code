@@ -200,3 +200,10 @@
 
 
 
+### Day 18: December 18, 2020
+
+**Today's Progress**: Tried creating a function for PUT request today. Failed miserably.
+
+**Thoughts**:  The only thing the cmd kept saying to me over and over again for one-hour straight was "App crashed". I swear to god, this kinda sad is the saddest kinda sad.
+
+**Link(s) to work**: :'(

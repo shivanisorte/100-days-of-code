@@ -219,4 +219,4 @@
 
 **Thoughts**:  I'll figure out soon
 
-**Link(s) to work**: 
+**Link(s) to work**: [delete method](https://github.com/shivanisorte/LearningJavaScript/commit/d084df70a951b56e58a59e5800bdf81c198c960d)

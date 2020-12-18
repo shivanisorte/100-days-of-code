@@ -207,3 +207,16 @@
 **Thoughts**:  The only thing the cmd kept saying to me over and over again for one-hour straight was "App crashed". I swear to god, this kinda sad is the saddest kinda sad.
 
 **Link(s) to work**: :'(
+
+
+
+
+
+
+### Day 19: December 19, 2020
+
+**Today's Progress**: Created a method for DELETE request. Still haven't figured out what mistakes I'm making in my PUT method.
+
+**Thoughts**:  I'll figure out soon
+
+**Link(s) to work**: 

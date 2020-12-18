@@ -175,7 +175,7 @@
 
 
 
-### Day 16: December 16, 2020
+### Day 16: December 15, 2020
 
 **Today's Progress**: Managed to figure out some basic functionality of Insomnia
 
@@ -187,7 +187,7 @@
 
 
 
-### Day 17: December 17, 2020
+### Day 17: December 16, 2020
 
 **Today's Progress**: Created functions for GET and POST method in my supermarket app. Passed a JSON object using POST method through Insomnia and added it to my products.json file.
 
@@ -200,7 +200,7 @@
 
 
 
-### Day 18: December 18, 2020
+### Day 18: December 17, 2020
 
 **Today's Progress**: Tried creating a function for PUT request today. Failed miserably.
 
@@ -213,7 +213,7 @@
 
 
 
-### Day 19: December 19, 2020
+### Day 19: December 18, 2020
 
 **Today's Progress**: Created a method for DELETE request. Still haven't figured out what mistakes I'm making in my PUT method.
 

@@ -220,3 +220,14 @@
 **Thoughts**:  I'll figure out soon
 
 **Link(s) to work**: [delete method](https://github.com/shivanisorte/LearningJavaScript/commit/d084df70a951b56e58a59e5800bdf81c198c960d)
+
+
+
+
+### Day 20: December 19, 2020
+
+**Today's Progress**: Finally figured out how to update items using PUT method yayayay!!
+
+**Thoughts**:  HAPPY MAX
+
+**Link(s) to work**: 

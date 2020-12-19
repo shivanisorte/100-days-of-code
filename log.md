@@ -24,7 +24,7 @@
 
 **Thoughts**: There's a little bit work remaining that I'll complete tomorrow
 
-**Link(s) to work**: [Shppping 360](https://github.com/shivanisorte/LearningJavaScript/tree/main/project2shopping)
+**Link(s) to work**: [Shppping 360](https://github.com/shivanisorte/Shopping360)
 
 
 ### Day 3: December 1, 2020
@@ -33,7 +33,7 @@
 
 **Thoughts**: There are still more features that I can add to the shopping system. For example: A back button to return to the home after search. But I'll do that some other day. 
 
-**Link(s) to work**: [Shppping 360](https://github.com/shivanisorte/LearningJavaScript/tree/main/project2shopping)
+**Link(s) to work**: [Shppping 360](https://github.com/shivanisorte/Shopping360)
 
 
 
@@ -43,7 +43,7 @@
 
 **Thoughts**: I had really forgotten a lot of topics. Thank god I decided to revise.
 
-**Link(s) to work**: [Revising basics of JS](https://github.com/shivanisorte/LearningJavaScript/tree/main/learning)
+**Link(s) to work**: [Revising basics of JS](https://github.com/shivanisorte/Shopping360)
 
 
 
@@ -112,7 +112,7 @@
 
 **Thoughts**: Used Bootstrap for the first time.
 
-**Link(s) to work**: [supermarket](https://github.com/shivanisorte/LearningJavaScript/tree/main/project3supermarket)
+**Link(s) to work**: [supermarket](https://github.com/shivanisorte/Supermarket)
 
 
 
@@ -135,7 +135,7 @@
 
 **Thoughts**: The API was blocking the server. Used 2 headers to fix that. 
 
-**Link(s) to work**: [supermarket](https://github.com/shivanisorte/LearningJavaScript/tree/main/project3supermarket)
+**Link(s) to work**: [supermarket](https://github.com/shivanisorte/Supermarket)
 
 
 
@@ -146,7 +146,7 @@
 
 **Thoughts**: I am proud of myself for reaching so far. 
 
-**Link(s) to work**: [supermarket](https://github.com/shivanisorte/LearningJavaScript/tree/main/project3supermarket)
+**Link(s) to work**: [supermarket](https://github.com/shivanisorte/Supermarket)
 
 
 
@@ -158,7 +158,7 @@
 
 **Thoughts**: Thinking about more features that I can add to this project
 
-**Link(s) to work**: [supermarket](https://github.com/shivanisorte/LearningJavaScript/tree/main/project3supermarket)
+**Link(s) to work**: [supermarket](https://github.com/shivanisorte/Supermarket)
 
 
 
@@ -169,7 +169,6 @@
 
 **Thoughts**: Slept while coding yesterday. I need to learn how to manage my time more efficiently.
 
-**Link(s) to work**: [no link]()
 
 
 
@@ -181,7 +180,6 @@
 
 **Thoughts**: Still need to learn more
 
-**Link(s) to work**: [no link]()
 
 
 
@@ -193,7 +191,7 @@
 
 **Thoughts**: Making the document format beautiful by using prettify extensions in VSCode is aesthetic and nobody can change my mind.
 
-**Link(s) to work**: [adding get post method req](https://github.com/shivanisorte/LearningJavaScript/commit/906b4e554c7eed0ce3a948edf24433134ba37692)
+**Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)
 
 
 
@@ -206,7 +204,7 @@
 
 **Thoughts**:  The only thing the cmd kept saying to me over and over again for one-hour straight was "App crashed". I swear to god, this kinda sad is the saddest kinda sad.
 
-**Link(s) to work**: :'(
+
 
 
 
@@ -219,7 +217,8 @@
 
 **Thoughts**:  I'll figure out soon
 
-**Link(s) to work**: [delete method](https://github.com/shivanisorte/LearningJavaScript/commit/d084df70a951b56e58a59e5800bdf81c198c960d)
+**Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)
+
 
 
 
@@ -230,4 +229,5 @@
 
 **Thoughts**:  HAPPY MAX
 
-**Link(s) to work**: 
+**Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)
+

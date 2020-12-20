@@ -231,3 +231,13 @@
 
 **Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)
 
+
+
+
+### Day 21: December 20, 2020
+
+**Today's Progress**: Building a CLI application using Node.js
+
+**Thoughts**:  Struggled with the indexing for a while but figured out an easy way to keep track of all tasks in the end. Thinking of ways to convert .json files to txt files using Node.js
+
+**Link(s) to work**: [CLI Todo]()

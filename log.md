@@ -241,3 +241,13 @@
 **Thoughts**:  Struggled with the indexing for a while but figured out an easy way to keep track of all tasks in the end. Thinking of ways to convert .json files to txt files using Node.js
 
 **Link(s) to work**: [CLI Todo]()
+
+
+
+### Day 22: December 21, 2020
+
+**Today's Progress**: Worked on the CLI application 
+
+**Thoughts**: Convert .json files to txt files. It was quite easy xD
+
+**Link(s) to work**: [CLI Todo]()

@@ -251,3 +251,13 @@
 **Thoughts**: Convert .json files to txt files. It was quite easy xD
 
 **Link(s) to work**: [CLI Todo](https://github.com/shivanisorte/todo)
+
+
+
+
+### Day 23: December 23, 2020
+
+**Today's Progress**: Figured how to pass ids between two webpages using vanilla JavaScript
+
+**Thoughts**: Going to use this tomorrow to pass data from 'all products' page to the individual 'product' page
+

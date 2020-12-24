@@ -261,3 +261,12 @@
 
 **Thoughts**: Going to use this tomorrow to pass data from 'all products' page to the individual 'product' page
 
+
+
+### Day 24: December 24, 2020
+
+**Today's Progress**: Added functionality to the view button in the supermarket app to view each product individually.
+
+**Thoughts**: The page still shows undefined for every information on the individual 'product' page. Got to work on that.
+
+**Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)

@@ -270,3 +270,13 @@
 **Thoughts**: The page still shows undefined for every information on the individual 'product' page. Got to work on that.
 
 **Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)
+
+
+
+### Day 25: December 25, 2020
+
+**Today's Progress**: Made some changes to the individual Product page. 
+
+**Thoughts**: Will add Update and Delete functionality in a few days. 
+
+**Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)

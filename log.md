@@ -280,3 +280,15 @@
 **Thoughts**: Will add Update and Delete functionality in a few days. 
 
 **Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)
+
+
+
+### Day 26: December 26, 2020
+
+**Today's Progress**: 
+1. Added 'Add Product' page to the Supermarket application. 
+2. Revised the basics of C++. 
+
+**Thoughts**: Planning on focusing on C++ for the next two months. 
+
+**Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)

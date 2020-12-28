@@ -292,3 +292,14 @@
 **Thoughts**: Planning on focusing on C++ for the next two months. 
 
 **Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)
+
+
+### Day 27: December 28, 2020
+
+**Today's Progress**: 
+1. Worked on the Supermarket app
+2. Revised some basic topics of C++. 
+
+**Thoughts**: -
+
+**Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)

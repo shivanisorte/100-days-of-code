@@ -303,3 +303,11 @@
 **Thoughts**: -
 
 **Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)
+
+### Day 28: December 29, 2020
+
+**Today's Progress**: 
+1. Learnt and applied some animations from Animate on scroll library
+2. Revised some basic topics of C++. 
+
+**Thoughts**: Today was a very busy day.

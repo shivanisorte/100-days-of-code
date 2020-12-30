@@ -311,3 +311,12 @@
 2. Revised some basic topics of C++. 
 
 **Thoughts**: Today was a very busy day.
+
+
+### Day 29: December 30, 2020
+
+**Today's Progress**: 
+1. Learnt and applied some particle.js
+2. Solved some easy practice @geeksforgeeks questions  
+
+**Thoughts**: Today was a busier day.

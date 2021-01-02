@@ -328,3 +328,10 @@
 Added functionality to the add product form and delete button. Made a timer that redirects back to the product page 3 seconds after an item is deleted.
 
 **Thoughts**: Spent a lot of time trying to understand why I was getting an OPTIONS request on making a POST request.
+
+### Day 31: January 1, 2020
+
+**Today's Progress**: 
+Learnt some more topics in C++ and solved a question on CodeChef. 
+
+**Thoughts**: I googled how to prepare for long challenges and there was a search result saying that you don't prepare for it, it prepares you and I think that's beautiful.

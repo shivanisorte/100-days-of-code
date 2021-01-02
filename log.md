@@ -329,9 +329,20 @@ Added functionality to the add product form and delete button. Made a timer that
 
 **Thoughts**: Spent a lot of time trying to understand why I was getting an OPTIONS request on making a POST request.
 
+**Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)
+
 ### Day 31: January 1, 2020
 
 **Today's Progress**: 
 Learnt some more topics in C++ and solved a question on CodeChef. 
 
 **Thoughts**: I googled how to prepare for long challenges and there was a search result saying that you don't prepare for it, it prepares you and I think that's beautiful.
+
+### Day 32: January 2, 2020
+
+**Today's Progress**: 
+Made this really cute neon animation
+
+**Thoughts**: I find it fascinating how super-cool things can be built using tiny cute concepts ♡
+
+**Link(s) to work**: [Cute animattion twwet link](https://twitter.com/ShivaniSorte/status/1345499902105686016)

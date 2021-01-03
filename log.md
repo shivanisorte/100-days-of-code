@@ -346,3 +346,12 @@ Made this really cute neon animation
 **Thoughts**: I find it fascinating how super-cool things can be built using tiny cute concepts ♡
 
 **Link(s) to work**: [Cute animattion twwet link](https://twitter.com/ShivaniSorte/status/1345499902105686016)
+
+
+### Day 33: January 3, 2020
+
+**Today's Progress**: 
+Built a Go To Top button using HTML CSS and JS and used marquee tag in HTML for the first time
+
+**Thoughts**: The developer community is very kind, generous and helpful.
+

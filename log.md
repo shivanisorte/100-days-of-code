@@ -355,3 +355,65 @@ Built a Go To Top button using HTML CSS and JS and used marquee tag in HTML for 
 
 **Thoughts**: The developer community is very kind, generous and helpful.
 
+
+### Day 34: January 4, 2020
+
+**Today's Progress**: Learnt some topics in C++ and solved a question on CodeChef. 
+
+**Thoughts**: I want to increase my rating on codeechef
+
+
+
+### Day 35: January 5, 2020
+
+**Today's Progress**: 
+Creating a Dashboard for the admin to manage all product items. Added functionality to the delete button
+
+**Thoughts**: Confused about how to connect all html files
+
+**Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)
+
+
+### Day 36: January 6, 2020
+
+**Today's Progress**: 
+Practiced some C++ and solved a question on CodeChef
+
+**Thoughts**: C++ is beautiful.
+
+
+### Day 37: January 9, 2020
+
+**Today's Progress**: 
+Created a form for updating data 
+
+**Thoughts**: Put it in a modal box. struggled to find a way to close it.
+
+**Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)
+
+
+### Day 38: January 10, 2020
+
+**Today's Progress**: Created functions to change data in the backend and show updated data in the frontend until the page is refreshed.
+
+**Thoughts**: Also displayed a message saying "product updated/deleted" on execution of the particular operation 
+
+**Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)
+
+
+### Day 39: January 11, 2020
+
+**Today's Progress**: Created functions for handling the ratings of the products
+
+**Thoughts**: I had never used onclick, onmouseout, onmouseover all together until today.
+
+**Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)
+
+### Day 40: January 12, 2020
+
+**Today's Progress**: 
+Added emojis
+
+**Thoughts**: Completed this project. Very satisfied :)
+
+**Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)

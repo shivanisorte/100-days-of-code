@@ -417,3 +417,70 @@ Added emojis
 **Thoughts**: Completed this project. Very satisfied :)
 
 **Link(s) to work**: [Supermarket app](https://github.com/shivanisorte/Supermarket)
+
+
+### Day 41: January 13, 2020
+
+**Today's Progress**: 
+Learnt some OpenCV using python
+
+**Thoughts**: Attended a seminar by edureka on OpenCV. Got quickly drawn to it.
+
+
+
+
+### Day 42: January 14, 2020
+
+**Today's Progress**: 
+Face and eyes detection using openCV 
+
+**Thoughts**: Going to use haarcascade to create a mask detection system 
+
+**Link(s) to work**: [Tweet link](https://twitter.com/ShivaniSorte/status/1349678375468560391)
+
+
+### Day 43: January 16, 2020
+
+**Today's Progress**: 
+Mask Detection using DL
+
+**Thoughts**: I want to add IOT and make this project better
+
+**Link(s) to work**: [Mask detection](https://github.com/shivanisorte/Mask-Detection)
+
+
+### Day 44: January 18, 2020
+
+**Today's Progress**: 
+Read articles on Deep Learning
+
+**Thoughts**: Kinda want to understand the math behind it
+
+### Day 45: January 19, 2020
+
+**Today's Progress**: 
+Learnt about Nearest Neighbor classifier
+
+
+
+### Day 46: January 20, 2020
+
+**Today's Progress**: 
+Learnt about k-Nearest Neighbor Classifier
+
+
+
+
+### Day 47: January 21, 2020
+
+**Today's Progress**: 
+Read about Validation sets for Hyperparameter tuning
+
+
+
+
+### Day 48: January 22, 2020
+
+**Today's Progress**: 
+Trained a model on fashion-mnist dataset. But got a large difference between the validation and actual loss.
+
